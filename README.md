@@ -125,5 +125,3 @@ The application will be available at `http://localhost:5173`.
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-*Built with ❤️ for secure and fair examinations.*
