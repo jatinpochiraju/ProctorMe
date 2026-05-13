@@ -6,7 +6,7 @@ ProctorMe is a state-of-the-art, full-stack examination platform designed to ens
 
 ##  Key Features
 
-### 🤖 AI-Driven Proctoring
+###  AI-Driven Proctoring
 *   **Real-time Face Tracking:** Uses TensorFlow.js to monitor the student's presence and position.
 *   **Violation Detection:** Automatically detects and logs suspicious activities:
     *   Multiple faces in the camera frame.
